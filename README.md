@@ -32,8 +32,8 @@ Methods
 
 |Method|Description
 |---|---|
-`resetTime`||Resets the time left
-`runTimer`||Starts the timer
-`getTimeLeft`||Returns the time left in an object`{ hours: 0, minutes: 0, seconds: 0 }`
-`reset`||Resets and run the timer
-`stop`||Stops the timer
+`resetTime`|Resets the time left
+`runTimer`|Starts the timer
+`getTimeLeft`|Returns the time left in an object`{ hours: 0, minutes: 0, seconds: 0 }`
+`reset`|Resets and run the timer
+`stop`|Stops the timer
