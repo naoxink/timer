@@ -15,6 +15,7 @@ new Timer({
   }
 })
 ```
+You can see it in action [here](http://naoxink.hol.es/idletea/?lang=en)
 
 Options
 ---
